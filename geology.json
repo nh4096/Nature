@@ -1,0 +1,26 @@
+
+{
+    "Eon": "宙",
+    "Era": "代",
+    "Period": "纪",
+    "Epoch": "世",
+    "Age": "期",
+    "Hadean": "冥古宙",
+    "Archean": "太古宙",
+    "Proterozoic": "元古宙",
+    "Phanerozoic": "显生宙",
+    "Paleozoic": "古生代",
+    "Mesozoic": "中生代",
+    "Cenozoic": "新生代",
+    "Quaternary": "第四纪",
+    "Tertiary": "第三纪",
+    "Cretaceous": "白垩纪",
+    "Jurassic": "侏罗纪",
+    "Triassic": "三叠纪",    
+    "Permian": "二叠纪",
+    "Carboniferous": "石碳纪",
+    "Devonian": "泥盆纪",
+    "Silurian": "志留纪",
+    "Ordovician": "奥陶纪",
+    "Cambrian": "寒武纪"
+}
